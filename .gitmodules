@@ -1,0 +1,6 @@
+[submodule "Tasklist-Api"]
+	path = Tasklist-Api
+	url = https://github.com/VinniciusSantos/Tasklist-Api.git
+[submodule "Tasklist-Web"]
+	path = Tasklist-Web
+	url = https://github.com/VinniciusSantos/Tasklist-Web.git
